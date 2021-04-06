@@ -1,2 +1,2 @@
-# MohammadMinhalSyed.github.io
-Portfolio Website
+# Portfolio
+Personal Website / Portfolio
